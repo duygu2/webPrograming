@@ -1,5 +1,5 @@
 # webPrograming
-Test amaçlıdır
-GitHub
+Test amaçlıdır.
+GitHub 
 
 
