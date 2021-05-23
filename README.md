@@ -16,3 +16,4 @@ VsCode ile proje sayfalarını açıp, github'a yükledim.
 -sayfa küçüldükçe yazı boyutlarını küçülttüm.
 
 
+
