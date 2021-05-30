@@ -20,6 +20,6 @@ VsCode ile proje sayfalarını açıp, github'a yükledim.
 
 5.hafta
 -Hakkımda bölümünü ve projelerim bölümünü oluşturdum. 
--İki bölümün title ları benzerdi. Css ile box ları hareketlendirdim.
+-İki bölümün titleları benzerdi. Css ile box ları hareketlendirdim.
 
 
