@@ -22,4 +22,6 @@ VsCode ile proje sayfalarını açıp, github'a yükledim.
 -Hakkımda bölümünü ve projelerim bölümünü oluşturdum. 
 -İki bölümün titleları benzerdi. Css ile box ları hareketlendirdim.
 
-
+6.hafta
+-Sayfaya koyduğum sembollere tıklayınca ilgili alana götürüyor.
+-footer kısmını tamamladım.
