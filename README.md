@@ -23,5 +23,5 @@ VsCode ile proje sayfalarını açıp, github'a yükledim.
 -İki bölümün titleları benzerdi. Css ile box ları hareketlendirdim.
 
 6.hafta
--Sayfaya koyduğum sembollere tıklayınca ilgili alana götürüyor.
+-Sayfaya koyduğum sembollere tıklayınca ilgili alana götürüyor. 
 -footer kısmını tamamladım.
