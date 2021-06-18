@@ -30,3 +30,6 @@ VsCode ile proje sayfalarını açıp, github'a yükledim.
 -Sayfaya koyduğum sembollere tıklayınca ilgili alana götürüyor. 
 
 -footer kısmını tamamladım.
+
+# 7. Hafta 
+-Son düzenlemeleri yapıtım, ödevi tamamladım.
